@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "c8202cf0-b3df-425c-8eaf-96bfc7a2ccf6",
+    "colId": "4ab4af01-35d0-4e26-a1cf-533fd2e19a9e",
+    "containerId": "",
+    "name": "Home",
+    "url": "{{API}}/greeting?name=Shamsi",
+    "method": "GET",
+    "sortNum": 10000,
+    "created": "2023-03-06T13:53:38.702Z",
+    "modified": "2023-03-06T13:55:56.188Z",
+    "headers": [],
+    "params": [
+      {
+        "name": "name",
+        "value": "Shamsi",
+        "isPath": false
+      }
+    ],
+    "tests": []
+  }
+]
